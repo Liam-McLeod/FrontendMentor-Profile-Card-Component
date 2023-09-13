@@ -17,8 +17,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
--  [Solution URL](https://www.frontendmentor.io/solutions/qr-code-component-4BsDe4QGnm)
--  [Live Site URL](https://liam-mcleod.github.io/FrontendMentor-QR-Code-Component/)
+-  [Solution URL](https://www.frontendmentor.io/solutions/profile-card-component-ZBZInVB_BA)
+-  [Live Site URL](https://liam-mcleod.github.io/FrontendMentor-Profile-Card-Component/)
 
 ## Author
 - Frontend Mentor - [@Liam-McLeod](https://www.frontendmentor.io/profile/Liam-McLeod)
